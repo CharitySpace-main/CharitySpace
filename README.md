@@ -1,1 +1,1 @@
-# CharitySpace
+Charityspace.space token contract
